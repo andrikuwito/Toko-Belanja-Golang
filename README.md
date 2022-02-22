@@ -1,4 +1,3 @@
-# Toko-Belanja-Golang
 # Project 4 - Golang Hacktiv8 X Kampus Merdeka
 
 Scalable Web Services with Golang
